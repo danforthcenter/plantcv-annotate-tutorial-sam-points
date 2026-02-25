@@ -13,4 +13,6 @@ are static or commented because they require access to the SAM3 model (accessibl
 Napari, Points, Segment Anything, SAM3
 
 ## Citations
+
+
 [![DOI](https://zenodo.org/badge/1166081991.svg)](https://doi.org/10.5281/zenodo.18776999)
